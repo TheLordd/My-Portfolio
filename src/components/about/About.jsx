@@ -39,7 +39,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis autem earum nobis! Aspernatur, dolorum dolor ex aliquam dolore sapiente, vitae expedita rem velit, blanditiis error iusto voluptas illo quos ad! Dignissimos veritatis delectus aliquid dolorem quis quo enim voluptate natus voluptas sint ratione suscipit ea dolore quam, necessitatibus maxime eum?
+          Experienced and dedicated software developer with a versatile skill set. Proficient in frontend technologies including HTML5, CSS, JavaScript, and React, as well as backend expertise in Python, Node.js, and PHP. With four years of hands-on experience, I am committed to delivering high-quality work within deadlines. Passionate about creating seamless user experiences and robust backend solutions.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
