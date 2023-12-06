@@ -6,6 +6,7 @@ import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.png'
+import IMG7 from '../../assets/portfolio7.png'
 
 
 const data = [
@@ -50,6 +51,13 @@ const data = [
     title: 'Church Website(Final Phase)',
     github: 'https://github.com/TheLordd',
     live: ""
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Christian Dating Site(First Phase in Progress)',
+    github: 'https://github.com/TheLordd',
+    live: "https://truelurve.com"
   },
 ]
 
